@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abanoubfurniture.vercel.app/sitemap.xml
